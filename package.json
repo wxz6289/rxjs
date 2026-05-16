@@ -1,5 +1,5 @@
 {
-  "name": "learn-rxjs",
+  "name": "rxjs",
   "version": "1.0.0",
   "description": "learn rxjs",
   "main": "index.js",
@@ -16,14 +16,9 @@
   "author": "Dreamer  King",
   "license": "MIT",
   "dependencies": {
-    "immutable": "^4.0.0",
-    "rxjs": "^7.4.0"
+    "immutable": "5.1.2",
+    "rxjs": "7.8.2"
   },
-  "devDependencies": {
-    "@babel/cli": "^7.16.0",
-    "@babel/core": "^7.16.0",
-    "@babel/node": "^7.16.0",
-    "@babel/plugin-proposal-function-bind": "^7.16.0",
-    "@babel/preset-env": "^7.16.4"
-  }
+  "devDependencies": {},
+  "packageManager": "pnpm@10.12.4+sha512.5ea8b0deed94ed68691c9bad4c955492705c5eeb8a87ef86bc62c74a26b037b08ff9570f108b2e4dbd1dd1a9186fea925e527f141c648e85af45631074680184"
 }
